@@ -1,4 +1,4 @@
-# 🦖 DL-Dino: Deep Learning Chrome Dinosaur Player
+# 🦖 D-RL-Dino: Deep Learning Chrome Dinosaur Player
 
 ![GitHub](https://img.shields.io/github/license/adithyanraj03/DL-Dino)
 ![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
