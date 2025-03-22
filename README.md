@@ -4,7 +4,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.10%2B-orange)
 
-A deep reinforcement learning agent that learns to play the Chrome Dinosaur game. This project implements various Deep Q-Learning algorithms to compare performance and investigates the effect of techniques like batch normalization on training. The system uses computer vision, deep reinforcement learning, and genetic algorithms to create an AI capable of mastering the Chrome Dino game and surpassing average human performance.
+A deep reinforcement learning Agent that learns to play the Chrome Dinosaur game. This project implements various Deep Q-Learning algorithms to compare performance and investigates the effect of techniques like batch normalization on training. The system uses computer vision, deep reinforcement learning, and genetic algorithms to create an AI capable of mastering the Chrome Dino game and surpassing average human performance.
 
 ![demo](https://github.com/user-attachments/assets/c7d3e99b-87f0-403c-a2f3-6566b043f115)
 
